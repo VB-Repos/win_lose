@@ -1,0 +1,10 @@
+# React Native
+node_modules/
+android/
+ios/
+.expo/
+.env
+# macOS
+.DS_Store
+# VSCode
+.vscode/
